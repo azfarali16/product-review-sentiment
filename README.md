@@ -15,7 +15,7 @@ This project consists of two parts:
 
 1. **Install dependencies**
    
-pip install -r requirements.txt
+```bash pip install -r requirements.txt ```
 
 2. **Create the Google Excel service file**
 
@@ -26,3 +26,12 @@ pip install -r requirements.txt
 3. **Run the backend**
 
 ```bash python app.py ```
+
+## Frontend Setup
+
+1. **Install dependencies**
+
+```bash npm install ```
+
+2. **Run the frontend**
+```bash npm run dev ```
