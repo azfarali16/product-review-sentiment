@@ -35,3 +35,5 @@ This project consists of two parts:
 
 2. **Run the frontend**
 ```npm run dev ```
+
+[DEMO][https://drive.google.com/file/d/1P0BPTpDO6W6sHZaLdld2vZZEmP1oV89R/view?usp=sharing]
